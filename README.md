@@ -40,8 +40,8 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
 
 # Tools and Languages:
 
-<img align="left" alt="Unity" width="32px" src="./icons/Tools/UE/Unreal_Engine_White.png"/>
-<img align="left" alt="Unreal" width="32px" src="./icons/Tools/Unity/unity-masterbrand-white.png"/>
+<img align="left" alt="Unreal" width="32px" src="./icons/Tools/UE/Unreal_Engine_White.png"/>
+<img align="left" alt="Unity" width="32px" src="./icons/Tools/Unity/unity-tab-square-white.png"/>
 
 
 [<img align="left" alt="HTML5" width="32px" src="./icons/Languages/HTML5_logo.png"/>][linkedin]
