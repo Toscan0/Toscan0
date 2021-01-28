@@ -1,4 +1,12 @@
-### Hi there 👋
+### About Me 👋
+
+My name is Tiago Henriques, but my friends call me Toscano.
+
+
+
+### Connect with me:
+
+!
 
 <!--
 **Toscan0/Toscan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
