@@ -54,7 +54,7 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
 
 # Connect with me:
 
-[<img align="center" alt="my linkedin" width="32px" src="./icons/Social/Linkedin.png" />][linkedin]
+[<img align="center" alt="my linkedin" width="32px" src="./icons/Social/linkedin.png" />][linkedin]
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
