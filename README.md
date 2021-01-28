@@ -1,13 +1,13 @@
-About Me 👋
-======
+# About Me 👋
 
 My name is Tiago Henriques, but my friends call me Toscano. I took Information Systems and Computer Engineering at Instituto Superior Técnico in Lisbon, Portugal. My Master is specialized in Visualization and Interaction, and Games. 
 
-Portfolio:
-======
+# Portfolio:
 
-Connect with me:
-======
+## University Projects - Instituto Superior Técnico (IST)
+
+# Connect with me:
+
 
 [<img align="left" alt="my linkedin" width="32px" src="https://github.com/Toscan0/Toscan0/blob/main/icons/linkedin.png"/>][linkedin]
 or by email me at j.tiago.henriques@tecnico.ulisboa.pt
