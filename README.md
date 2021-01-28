@@ -1,10 +1,28 @@
 # About Me 👋
 
-My name is Tiago Henriques, but my friends call me Toscano. I took Information Systems and Computer Engineering at Instituto Superior Técnico in Lisbon, Portugal. My Master is specialized in Visualization and Interaction, and Games. 
+My name is Tiago Henriques, but my friends call me Toscano. I took Information Systems and Computer Engineering at Instituto Superior Técnico in Lisbon, Portugal. My Master is specialized in Interaction and Visualization, and Games. 
 
 # Portfolio:
 
-## University Projects - Instituto Superior Técnico (IST)
+* University Projects - Instituto Superior Técnico (IST)
+  * Degree 
+    * https://github.com/Toscan0/IST-ES 
+    * https://github.com/Toscan0/IST-SD
+    * https://github.com/Toscan0/IST-CG
+    * https://github.com/Toscan0/IST-IA
+    * https://github.com/Toscan0/IST-BD
+  * Master
+    * Games
+      * https://github.com/Toscan0/IST-MDJ
+      * https://github.com/Toscan0/IST-CGJ
+      * https://github.com/Toscan0/IST-DDJ
+      * https://github.com/Toscan0/IST-Thesis-FaradayMuseum
+    *  Interaction and Visualization
+      * https://github.com/Toscan0/IST-CVI
+      * https://github.com/Toscan0/IST-VI
+      * https://github.com/Toscan0/IST-RV
+      * https://github.com/Toscan0/IST-CCU
+      
 
 # Connect with me:
 
