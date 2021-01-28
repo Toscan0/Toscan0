@@ -6,7 +6,8 @@ My name is Tiago Henriques, but my friends call me Toscano.
 
 ### Connect with me:
 
-!
+![](./icons/linkedin.png =32x)
+
 
 <!--
 **Toscan0/Toscan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
