@@ -41,9 +41,10 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
 # Tools and Languages:
 
 [<img align="left" alt="HTML5" width="32px" src="./icons/Languages/HTML5_logo.png"/>][linkedin]
+[<img align="left" alt="JavaScript" width="32px" src="./icons/Languages/JS_logo.png"/>][linkedin]
 [<img align="left" alt="CSS3" width="32px" src="./icons/Languages/CSS_logo.png"/>][linkedin]
-[<img align="left" alt="JavaScript" width="32px" src="./icons/Languages/JS_logo.png""/>][linkedin]
-[<img align="left" alt="Sass" width="32px" src=""/>][linkedin]
+[<img align="left" alt="Sass" width="32px" src="./icons/Languages/Sass_logo.png"/>][linkedin]
+[<img align="left" alt="Vue" width="32px" src="./icons/Languages/Vue_logo.png"/>][linkedin]
 
 <br />
 <br />
