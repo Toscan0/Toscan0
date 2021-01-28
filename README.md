@@ -12,7 +12,7 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
     * https://github.com/Toscan0/IST-IA
     * https://github.com/Toscan0/IST-BD
   * Master
-    * Games :video_game:
+    * :video_game: Games 
       * https://github.com/Toscan0/IST-MDJ
       * https://github.com/Toscan0/IST-CGJ
       * https://github.com/Toscan0/IST-DDJ
@@ -24,11 +24,11 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
        * https://github.com/Toscan0/IST-CCU
  
 
-* Android Apps :iphone:
+* :iphone: Android Apps 
   * https://github.com/Toscan0/Car_leds
 
     
-* Global Game Jams participations :video_game:
+* :video_game: Global Game Jams participations 
   * https://github.com/Toscan0/GGJ2020
  
 
@@ -53,7 +53,7 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
 <br />
 <br />
 
-> These are the most recently tools and languages used. But i have more in my toolbox :stuck_out_tongue:
+> These are the most recently tools and languages used. But I have more in my toolbox :stuck_out_tongue:
 
 
 # Connect with me
