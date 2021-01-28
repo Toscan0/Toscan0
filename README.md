@@ -53,7 +53,7 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
 <br />
 <br />
 
-> These are the most recently tools and languages used. But I have more in my toolbox :toolbox:! :stuck_out_tongue:
+> These are the most recently tools and languages used. But I have more in my toolbox :stuck_out_tongue:
 
 
 # Connect with me
