@@ -49,7 +49,7 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
 <br />
 <br />
 
-> These are the tools and languages that I used the most this year
+> These are the most recently tools and languages used. But i have more in my toolbox 
 
 
 # Connect with me:
