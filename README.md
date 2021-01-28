@@ -2,9 +2,9 @@
 
 My name is Tiago Henriques, but my friends call me Toscano. I took Information Systems and Computer Engineering at Instituto Superior Técnico in Lisbon, Portugal. My Master is specialized in Interaction and Visualization, and Games. 
 
-# Portfolio:
+# Portfolio
 
-* University Projects - Instituto Superior Técnico (IST) :mortar_board:
+* :mortar_board: University Projects - Instituto Superior Técnico (IST) 
   * Degree 
     * https://github.com/Toscan0/IST-ES 
     * https://github.com/Toscan0/IST-SD
@@ -38,7 +38,7 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
   * https://github.com/Toscan0/Blender-Misc
   * https://github.com/Toscan0/Gopher360
 
-# Tools and Languages:
+# Tools and Languages
 
 <img align="left" alt="Unreal" width="32px" src="./icons/Tools/UE/Unreal_Engine_White.png"/>
 <img align="left" alt="Unity" width="32px" src="./icons/Tools/Unity/unity-tab-square-white.png"/>
@@ -56,7 +56,7 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
 > These are the most recently tools and languages used. But i have more in my toolbox :stuck_out_tongue:
 
 
-# Connect with me:
+# Connect with me
 
 [<img align="center" alt="my linkedin" width="32px" src="./icons/Social/linkedin.png" />][linkedin]
 
