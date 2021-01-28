@@ -42,8 +42,7 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
 # Connect with me:
 
 
-[<img align="left" alt="my linkedin" width="32px" src="https://github.com/Toscan0/Toscan0/blob/main/icons/linkedin.png"/>][linkedin]
-or by email me at j.tiago.henriques@tecnico.ulisboa.pt
+[<img align="center" alt="my linkedin" width="32px" src="https://github.com/Toscan0/Toscan0/blob/main/icons/linkedin.png"/>][linkedin]
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
