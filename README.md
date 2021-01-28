@@ -8,6 +8,10 @@ My name is Tiago Henriques, but my friends call me Toscano.
 
 [<img align="left" alt="my linkedin" width="32px" src="https://github.com/Toscan0/Toscan0/blob/main/icons/linkedin.png"/>][linkedin]
 
+or by email me at j.tiago.henriques@tecnico.ulisboa.pt
+
+
+
 <!--
 **Toscan0/Toscan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,4 +28,4 @@ Here are some ideas to get you started:
 -->
 
 
-[linkedin]: www.linkedin.com/in/tiago-henriques-638252132
+[linkedin]: https://www.linkedin.com/in/tiago-henriques-638252132/
