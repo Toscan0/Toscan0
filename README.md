@@ -1,4 +1,4 @@
-# About Me 👋
+# About Me :wave:
 
 My name is Tiago Henriques, but my friends call me Toscano. I took Information Systems and Computer Engineering at Instituto Superior Técnico in Lisbon, Portugal. My Master is specialized in Interaction and Visualization, and Games. 
 
@@ -12,7 +12,7 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
     * https://github.com/Toscan0/IST-IA
     * https://github.com/Toscan0/IST-BD
   * Master
-    * Games
+    * Games :video_game:
       * https://github.com/Toscan0/IST-MDJ
       * https://github.com/Toscan0/IST-CGJ
       * https://github.com/Toscan0/IST-DDJ
@@ -24,11 +24,11 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
        * https://github.com/Toscan0/IST-CCU
  
 
-* Android Apps
+* Android Apps :iphone:
   * https://github.com/Toscan0/Car_leds
 
     
-* Global Game Jams participations
+* Global Game Jams participations :video_game:
   * https://github.com/Toscan0/GGJ2020
  
 
