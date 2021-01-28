@@ -6,8 +6,7 @@ My name is Tiago Henriques, but my friends call me Toscano.
 
 ### Connect with me:
 
-![](./icons/linkedin.png =32x)
-
+[<img align="left" alt="my linkedin" width="32px" src="https://github.com/Toscan0/Toscan0/blob/main/icons/linkedin.png"/>][linkedin]
 
 <!--
 **Toscan0/Toscan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[linkedin]: www.linkedin.com/in/tiago-henriques-638252132
