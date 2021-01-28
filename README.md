@@ -47,6 +47,7 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
 [<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>][linkedin]
 
 <br />
+<br />
 
 > These are the tools and languages that I used the most this year
 
