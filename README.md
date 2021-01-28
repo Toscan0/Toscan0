@@ -4,7 +4,7 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
 
 # Portfolio:
 
-* University Projects - Instituto Superior Técnico (IST)
+* University Projects - Instituto Superior Técnico (IST) :mortar_board:
   * Degree 
     * https://github.com/Toscan0/IST-ES 
     * https://github.com/Toscan0/IST-SD
