@@ -10,7 +10,7 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
     * [Distributed Systems](https://github.com/Toscan0/IST-SD) - Java project
     * [Computer Graphics](https://github.com/Toscan0/IST-CG) - Space Invaders game in Three.js
     * [Artificial intelligence](https://github.com/Toscan0/IST-IA) - Lisp project
-    * [Database]https://github.com/Toscan0/IST-BD - SQL project
+    * [Database](https://github.com/Toscan0/IST-BD) - SQL project
   * Master
     * :video_game: Games
       * [Master Thesis](https://github.com/Toscan0/IST-Thesis-FaradayMuseum) - Serious game for Android with augmented reality in the context of a museum - Unity / C# 
@@ -25,12 +25,12 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
  
 
 * :iphone: Android Apps 
-  * https://github.com/Toscan0/Car_leds
+  * [App Bluetooth Sender](https://github.com/Toscan0/Car_leds) - Send values to an arduino by Bluetooth or BLE - Unity / C#
 
     
 * :trophy: :video_game: Game Jams participations 
   * Global Game Jams
-    * [Car Therapy](https://github.com/Toscan0/GGJ2020)
+    * [Car Therapy](https://github.com/Toscan0/GGJ2020) - Unity / C#
  
 
 * Misclandia of projects and tutorials
