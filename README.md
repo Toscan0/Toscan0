@@ -28,8 +28,9 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
   * https://github.com/Toscan0/Car_leds
 
     
-* :video_game: Global Game Jams participations 
-  * https://github.com/Toscan0/GGJ2020
+* :trophy: :video_game: Game Jams participations 
+  * Global Game Jams
+    * https://github.com/Toscan0/GGJ2020
  
 
 * Misclandia of projects and tutorials
@@ -44,11 +45,11 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
 <img align="left" alt="Unity" width="32px" src="./icons/Tools/Unity/unity-tab-square-white.png"/>
 
 
-[<img align="left" alt="HTML5" width="32px" src="./icons/Languages/HTML5_logo.png"/>][linkedin]
-[<img align="left" alt="JavaScript" width="32px" src="./icons/Languages/JS_logo.png"/>][linkedin]
-[<img align="left" alt="CSS3" width="32px" src="./icons/Languages/CSS_logo.png"/>][linkedin]
-[<img align="left" alt="Sass" width="32px" src="./icons/Languages/Sass_logo.png"/>][linkedin]
-[<img align="left" alt="Vue" width="32px" src="./icons/Languages/Vue_logo.png"/>][linkedin]
+<img align="left" alt="HTML5" width="32px" src="./icons/Languages/HTML5_logo.png"/>
+<img align="left" alt="JavaScript" width="32px" src="./icons/Languages/JS_logo.png"/>
+<img align="left" alt="CSS3" width="32px" src="./icons/Languages/CSS_logo.png"/>
+<img align="left" alt="Sass" width="32px" src="./icons/Languages/Sass_logo.png"/>
+<img align="left" alt="Vue" width="32px" src="./icons/Languages/Vue_logo.png"/>
 
 <br />
 <br />
