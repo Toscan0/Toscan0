@@ -6,7 +6,7 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
 
 * :mortar_board: University Projects - Instituto Superior Técnico (IST) 
   * Degree 
-    * https://github.com/Toscan0/IST-ES 
+    * [Software Engineering](https://github.com/Toscan0/IST-ES) - Java project
     * https://github.com/Toscan0/IST-SD
     * https://github.com/Toscan0/IST-CG
     * https://github.com/Toscan0/IST-IA
