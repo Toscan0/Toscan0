@@ -7,21 +7,21 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
 * :mortar_board: University Projects - Instituto Superior Técnico (IST) 
   * Degree 
     * [Software Engineering](https://github.com/Toscan0/IST-ES) - Java project
-    * https://github.com/Toscan0/IST-SD
-    * https://github.com/Toscan0/IST-CG
-    * https://github.com/Toscan0/IST-IA
-    * https://github.com/Toscan0/IST-BD
+    * [Distributed Systems](https://github.com/Toscan0/IST-SD) - Java project
+    * [Computer Graphics](https://github.com/Toscan0/IST-CG) - Space Invaders game in Three.js
+    * [Artificial intelligence](https://github.com/Toscan0/IST-IA) - Lisp project
+    * [Database]https://github.com/Toscan0/IST-BD - SQL project
   * Master
-    * :video_game: Games 
-      * https://github.com/Toscan0/IST-MDJ
-      * https://github.com/Toscan0/IST-CGJ
-      * https://github.com/Toscan0/IST-DDJ
-      * https://github.com/Toscan0/IST-Thesis-FaradayMuseum
+    * :video_game: Games
+      * [Master Thesis](https://github.com/Toscan0/IST-Thesis-FaradayMuseum)
+      * [Game Development Methodology](https://github.com/Toscan0/IST-MDJ)
+      * [Computer Graphics for Games](https://github.com/Toscan0/IST-CGJ)
+      * [Game Design](https://github.com/Toscan0/IST-DDJ)
     * :desktop_computer: Interaction and Visualization
-       * https://github.com/Toscan0/IST-CVI
-       * https://github.com/Toscan0/IST-VI
-       * https://github.com/Toscan0/IST-RV
-       * https://github.com/Toscan0/IST-CCU
+       * [Interactive Visual Communication](https://github.com/Toscan0/IST-CVI)
+       * [Information Visualization](https://github.com/Toscan0/IST-VI)
+       * [Virtual Reality](https://github.com/Toscan0/IST-RV)
+       * [User Centered Design](https://github.com/Toscan0/IST-CCU)
  
 
 * :iphone: Android Apps 
@@ -30,14 +30,14 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
     
 * :trophy: :video_game: Game Jams participations 
   * Global Game Jams
-    * https://github.com/Toscan0/GGJ2020
+    * [Car Therapy](https://github.com/Toscan0/GGJ2020)
  
 
 * Misclandia of projects and tutorials
-  * https://github.com/Toscan0/Unity-Misc
-  * https://github.com/Toscan0/Unreal-Engine-4-misc
-  * https://github.com/Toscan0/Blender-Misc
-  * https://github.com/Toscan0/Gopher360
+  * [Mix of projects and tutorials in Unity](https://github.com/Toscan0/Unity-Misc)
+  * [Mix of projects and tutorials in Unreal](https://github.com/Toscan0/Unreal-Engine-4-misc)
+  * [Mix of projects and tutorials in Blender](https://github.com/Toscan0/Blender-Misc)
+  * [My version of Gopher360](https://github.com/Toscan0/Gopher360) - Use your Xbox controller like a pc mouse
 
 # Tools and Languages
 
