@@ -13,15 +13,15 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
     * [Database]https://github.com/Toscan0/IST-BD - SQL project
   * Master
     * :video_game: Games
-      * [Master Thesis](https://github.com/Toscan0/IST-Thesis-FaradayMuseum)
-      * [Game Development Methodology](https://github.com/Toscan0/IST-MDJ)
-      * [Computer Graphics for Games](https://github.com/Toscan0/IST-CGJ)
-      * [Game Design](https://github.com/Toscan0/IST-DDJ)
+      * [Master Thesis](https://github.com/Toscan0/IST-Thesis-FaradayMuseum) - Serious game for Android with augmented reality in the context of a museum - Unity / C# 
+      * [Game Development Methodology](https://github.com/Toscan0/IST-MDJ) - 2D Platformer Game - Unity / C#
+      * [Game Design](https://github.com/Toscan0/IST-DDJ) - 3D Horror/Escape Room/Puzzle Game - Unity / C#
+      * [Computer Graphics for Games](https://github.com/Toscan0/IST-CGJ) - Simple Engine - C++ / OpenGL
     * :desktop_computer: Interaction and Visualization
        * [Interactive Visual Communication](https://github.com/Toscan0/IST-CVI)
-       * [Information Visualization](https://github.com/Toscan0/IST-VI)
-       * [Virtual Reality](https://github.com/Toscan0/IST-RV)
-       * [User Centered Design](https://github.com/Toscan0/IST-CCU)
+       * [Information Visualization](https://github.com/Toscan0/IST-VI) 
+       * [Virtual Reality](https://github.com/Toscan0/IST-RV) - Virtual reality art gallery  - Unity / C#
+       * [User Centered Design](https://github.com/Toscan0/IST-CCU) - Proof of concept for Porto city metro in virtual reality - Unity / C#
  
 
 * :iphone: Android Apps 
