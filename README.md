@@ -19,7 +19,7 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
       * [Computer Graphics for Games](https://github.com/Toscan0/IST-CGJ) - Simple Engine - C++ / OpenGL
     * :desktop_computer: Interaction and Visualization
        * [Interactive Visual Communication](https://github.com/Toscan0/IST-CVI)
-       * [Information Visualization](https://github.com/Toscan0/IST-VI) 
+       * [Information Visualization](https://github.com/Toscan0/IST-VI) - Info Vis about Sociopolitical impact at the Oscars - HTML / JS / d3.js / CSS
        * [Virtual Reality](https://github.com/Toscan0/IST-RV) - Virtual reality art gallery  - Unity / C#
        * [User Centered Design](https://github.com/Toscan0/IST-CCU) - Proof of concept for Porto city metro in virtual reality - Unity / C#
  
@@ -30,7 +30,7 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
     
 * :trophy: :video_game: Game Jams participations 
   * Global Game Jams
-    * [Car Therapy](https://github.com/Toscan0/GGJ2020) - Unity / C#
+    * [Car Therapy](https://github.com/Toscan0/GGJ2020) - GGJ2020 - Unity / C#
  
 
 * Misclandia of projects and tutorials
