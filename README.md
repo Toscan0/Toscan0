@@ -28,7 +28,9 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
   * [App Bluetooth Sender](https://github.com/Toscan0/Car_leds) - Send values to an arduino by Bluetooth or BLE - Unity / C#
 
     
-* :trophy: :video_game: Game Jams participations 
+* :trophy: :video_game: Game Jams participations
+  * Search For a Star
+    * [UFO Game](https://github.com/Toscan0/Search-For-A-Star-2021) - Search For a Star 2021 - Unity / C#
   * Global Game Jams
     * [Car Therapy](https://github.com/Toscan0/GGJ2020) - GGJ2020 - Unity / C#
  
