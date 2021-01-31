@@ -33,6 +33,7 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
     * [UFO Game](https://github.com/Toscan0/Search-For-A-Star-2021) - Search For a Star 2021 - Unity / C#
   * Global Game Jams
     * [Car Therapy](https://github.com/Toscan0/GGJ2020) - GGJ2020 - Unity / C#
+    * [The Flashlight](https://github.com/Toscan0/GGJ2021) - GGJ2021 - Unity / C#
  
 
 * Misclandia of projects and tutorials
