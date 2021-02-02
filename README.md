@@ -60,7 +60,7 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
 <br />
 <br />
 
-> These are the most recently tools and languages used. But I have more in my toolbox :stuck_out_tongue:
+> These are my most recently tools and languages used. But I have more in my toolbox :stuck_out_tongue:
 
 
 # GitHub stats
@@ -71,7 +71,7 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Toscan0&count_private=true&show_icons=true&theme=radical)
 
-![My Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toscan0&count_private=true&show_icons=true&theme=radical)
+![My most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toscan0&count_private=true&show_icons=true&theme=radical)
 
 # Connect with me
 
