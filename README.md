@@ -63,16 +63,30 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
 > These are the most recently tools and languages used. But I have more in my toolbox :stuck_out_tongue:
 
 
+# GitHub stats
+
+<!-- <details>
+  <summary>:zap: GitHub Stats</summary>
+</details> -->
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Toscan0&count_private=true&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toscan0&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 # Connect with me
 
 [<img align="center" alt="my linkedin" width="32px" src="./icons/Social/linkedin.png" />][linkedin]
 
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Toscan0)](https://github.com/anuraghazra/github-readme-stats)
 
-</details> -->
+
+
+
+
+
+
+
+
 
 
 
