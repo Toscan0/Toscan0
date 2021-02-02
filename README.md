@@ -1,6 +1,8 @@
 # About Me :wave:
 
-My name is Tiago Henriques, but my friends call me Toscano. I took Information Systems and Computer Engineering at Instituto Superior Técnico in Lisbon, Portugal. My Master is specialized in Interaction and Visualization, and Games. 
+My name is Tiago Henriques, but my friends call me Toscano.\
+I took Information Systems and Computer Engineering at Instituto Superior Técnico in Lisbon, Portugal.\
+My Msc is specialized in Interaction and Visualization, and Games. 
 
 # Portfolio
 
