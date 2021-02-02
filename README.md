@@ -41,7 +41,6 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
   * [Mix of projects and tutorials in Unity](https://github.com/Toscan0/Unity-Misc)
   * [Mix of projects and tutorials in Unreal](https://github.com/Toscan0/Unreal-Engine-4-misc)
   * [Mix of projects and tutorials in Blender](https://github.com/Toscan0/Blender-Misc)
-  * [Pixel art made by me](https://github.com/Toscan0/Pixel-Art)
   * [My version of Gopher360](https://github.com/Toscan0/Gopher360) - Use your Xbox controller like a pc mouse
 
 # Tools and Languages
