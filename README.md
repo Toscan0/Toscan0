@@ -89,5 +89,4 @@ My name is Tiago Henriques, but my friends call me Toscano. I took Information S
 
 
 
-
 [linkedin]: https://www.linkedin.com/in/tiago-henriques-638252132/
