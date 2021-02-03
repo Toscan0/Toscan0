@@ -43,6 +43,7 @@ My Msc is specialized in Interaction and Visualization, and Games.
   * [Mix of projects and tutorials in Unity](https://github.com/Toscan0/Unity-Misc)
   * [Mix of projects and tutorials in Unreal](https://github.com/Toscan0/Unreal-Engine-4-misc)
   * [Mix of projects and tutorials in Blender](https://github.com/Toscan0/Blender-Misc)
+  * [My pixel art](https://github.com/Toscan0/Pixel-Art)
   * [My version of Gopher360](https://github.com/Toscan0/Gopher360) - Use your Xbox controller like a pc mouse
 
 # Tools and Languages
