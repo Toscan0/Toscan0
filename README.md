@@ -33,7 +33,9 @@ My Msc is specialized in Interaction and Visualization, and Games.
 * :trophy: :video_game: Game Jams participations
   * Search For a Star
     * [UFO Game](https://github.com/Toscan0/Search-For-A-Star-2021) - Search For a Star 2021 - Unity / C#
-  * Global Game Jams
+  * Nokia 3310 
+    * [Catch The Fly](https://github.com/Toscan0/Nokia-3310-2021)
+  * Global Game Jam
     * [Car Therapy](https://github.com/Toscan0/GGJ2020) - GGJ2020 - Unity / C#
     * [The Flashlight](https://github.com/Toscan0/GGJ2021) - GGJ2021: 2nd place @ Tecnico / Belas-Artes  - Unity / C#
  
