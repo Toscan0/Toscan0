@@ -8,6 +8,8 @@ My Msc is specialized in Interaction and Visualization, and Games.
 
 * :mortar_board: University Projects - Instituto Superior Técnico (IST) 
   * Degree 
+    * [Programming Fundamentals](https://github.com/Toscan0/IST-FP) - Python project (my first coding project)
+    * [Operating Systems](https://github.com/Toscan0/IST-SO) - C project
     * [Software Engineering](https://github.com/Toscan0/IST-ES) - Java project
     * [Distributed Systems](https://github.com/Toscan0/IST-SD) - Java project
     * [Computer Graphics](https://github.com/Toscan0/IST-CG) - Space Invaders game in Three.js
