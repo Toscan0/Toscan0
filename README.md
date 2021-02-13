@@ -48,24 +48,24 @@ My Msc is specialized in Interaction and Visualization, and Games.
   * [My pixel art](https://github.com/Toscan0/Pixel-Art)
   * [My version of Gopher360](https://github.com/Toscan0/Gopher360) - Use your Xbox controller like a pc mouse
 
-# Tools and Languages
+# Engines and Frameworks
 
 <img align="left" alt="Unity" width="32px" src="./icons/Tools/Unity/unity-tab-square-white.png"/>
 <img align="left" alt="Unreal" width="32px" src="./icons/Tools/UE/Unreal_Engine_White.png"/>
+<img align="left" alt="Sass" width="32px" src="./icons/Languages/Sass_logo.png"/>
+<img align="left" alt="Vue" width="32px" src="./icons/Languages/Vue_logo.png"/>
 
+<!--
 <img align="left" alt="C#" width="32px" src="./icons/Languages/C_Sharp_logo.png"/>
 <img align="left" alt="Cpp" width="32px" src="./icons/Languages/Cpp_logo.png"/>
-
 <img align="left" alt="HTML5" width="32px" src="./icons/Languages/HTML5_logo.png"/>
 <img align="left" alt="JavaScript" width="32px" src="./icons/Languages/JS_logo.png"/>
 <img align="left" alt="CSS3" width="32px" src="./icons/Languages/CSS_logo.png"/>
 <img align="left" alt="Sass" width="32px" src="./icons/Languages/Sass_logo.png"/>
 <img align="left" alt="Vue" width="32px" src="./icons/Languages/Vue_logo.png"/>
-
 <br />
 <br />
-
-> These are my most recently tools and languages used. But I have more in my toolbox :stuck_out_tongue:
+> These are my most recently tools and languages used. But I have more in my toolbox :stuck_out_tongue: -->
 
 
 # GitHub stats
