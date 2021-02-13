@@ -52,10 +52,10 @@ My Msc is specialized in Interaction and Visualization, and Games.
 
 # Engines and Frameworks
 
-<img align="left" alt="Unity" width="32px" src="./icons/Tools/Unity/unity-tab-square-white.png"/>
-<img align="left" alt="Unreal" width="32px" src="./icons/Tools/UE/Unreal_Engine_White.png"/>
-<img align="left" alt="Sass" width="32px" src="./icons/Languages/Sass_logo.png"/>
-<img align="left" alt="Vue" width="32px" src="./icons/Languages/Vue_logo.png"/>
+<img align="left" alt="Unity" width="32px" height="32px" src="./icons/Tools/Unity/unity-tab-square-white.png"/>
+<img align="left" alt="Unreal" width="32px"  height="32px" src="./icons/Tools/UE/Unreal_Engine_White.png"/>
+<img align="left" alt="Sass" width="32px"  height="32px" src="./icons/Languages/Sass_logo.png"/>
+<img align="left" alt="Vue" width="32px"  height="32px" src="./icons/Languages/Vue_logo.png"/>
 
 <!--
 <img align="left" alt="C#" width="32px" src="./icons/Languages/C_Sharp_logo.png"/>
@@ -68,7 +68,8 @@ My Msc is specialized in Interaction and Visualization, and Games.
 <br />
 <br />
 > These are my most recently tools and languages used. But I have more in my toolbox :stuck_out_tongue: -->
-
+<br />
+<br />
 
 # GitHub stats
 
@@ -82,7 +83,7 @@ My Msc is specialized in Interaction and Visualization, and Games.
 
 # Connect with me
 
-[<img align="center" alt="my linkedin" width="32px" src="./icons/Social/linkedin.png" />][linkedin]
+[<img align="center" alt="my linkedin" width="32px" height="32px" src="./icons/Social/linkedin.png" />][linkedin]
 
 
 
