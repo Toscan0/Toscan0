@@ -50,6 +50,11 @@ My Msc is specialized in Interaction and Visualization, and Games.
   * [My pixel art](https://github.com/Toscan0/Pixel-Art)
   * [My version of Gopher360](https://github.com/Toscan0/Gopher360) - Use your Xbox controller like a pc mouse
 
+* ⚜️Scouts Games
+ * [Image Bingo](https://github.com/Toscan0/Image-Bingo)
+ * [Mafeking Siege](https://github.com/Toscan0/Siege-of-Mafeking)  
+
+
 # Engines and Frameworks
 
 <img align="left" alt="Unity" width="32px" height="32px" src="./icons/Tools/Unity/unity-tab-square-white.png"/>
@@ -84,15 +89,6 @@ My Msc is specialized in Interaction and Visualization, and Games.
 # Connect with me
 
 [<img align="center" alt="my linkedin" width="32px" height="32px" src="./icons/Social/linkedin.png" />][linkedin]
-
-
-
-
-
-
-
-
-
 
 
 
