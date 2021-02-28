@@ -61,7 +61,6 @@ My Msc is specialized in Interaction and Visualization, and Games.
   height="32px" src="./icons/Engines/UE/Unreal_Engine_White.png"/>
 
 <br/>
-<br/>
 
 # Frameworks and Libraries
 
@@ -75,7 +74,6 @@ My Msc is specialized in Interaction and Visualization, and Games.
   src="./icons/Frameworks/ThreeJS.png"/>
 
 <br/>
-<br/>
 
 # Languages
 
@@ -85,7 +83,6 @@ My Msc is specialized in Interaction and Visualization, and Games.
 <img align="left" alt="JavaScript" width="32px" src="./icons/Languages/JS_logo.png"/>
 <img align="left" alt="CSS3" width="32px" src="./icons/Languages/CSS_logo.png"/>
 
-<br/>
 <br/>
 
 > These are my most recently tools and languages used. But I have more in my toolbox :stuck_out_tongue:
