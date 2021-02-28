@@ -57,19 +57,26 @@ My Msc is specialized in Interaction and Visualization, and Games.
 
 # Engines
 
-<img align="left" alt="Unity" width="32px" height="32px" src="./icons/Tools/Unity/unity-tab-square-white.png"/>
-<img align="left" alt="Unreal" width="32px"  height="32px" src="./icons/Tools/UE/Unreal_Engine_White.png"/>
+<img align="left" alt="Unity" width="32px" height="32px" 
+  src="./icons/Engines/Unity/unity-tab-square-white.png"/>
+<img align="left" alt="Unreal" width="32px"  
+  height="32px" src="./icons/Engines/UE/Unreal_Engine_White.png"/>
 
 <br/>
 <br/>
 
 # Frameworks and Libraries
 
-<img align="left" alt="Sass" width="32px"  height="32px" src="./icons/Languages/Sass_logo.png"/>
-<img align="left" alt="Vue" width="32px"  height="32px" src="./icons/Languages/Vue_logo.png"/>
-<img align="left" alt="D3.js" width="32px"  height="32px" src="./icons/Languages/D3JS.svg"/>
-<img align="left" alt="Three.js" width="32px"  height="32px" src="./icons/Languages/ThreeJS.png"/>
+<img align="left" alt="Sass" width="32px"  height="32px" 
+  src="./icons/Frameworks/Sass_logo.png"/>
+<img align="left" alt="Vue" width="32px"  height="32px" 
+  src="./icons/Frameworks/Vue_logo.png"/>
+<img align="left" alt="D3.js" width="32px"  height="32px" 
+  src="./icons/Frameworks/D3JS.svg"/>
+<img align="left" alt="Three.js" width="32px"  height="32px" 
+  src="./icons/Frameworks/ThreeJS.png"/>
 
+# Languages
 <!--
 <img align="left" alt="C#" width="32px" src="./icons/Languages/C_Sharp_logo.png"/>
 <img align="left" alt="Cpp" width="32px" src="./icons/Languages/Cpp_logo.png"/>
