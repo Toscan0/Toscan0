@@ -67,6 +67,7 @@ My Msc is specialized in Interaction and Visualization, and Games.
 
 <img align="left" alt="Sass" width="32px"  height="32px" src="./icons/Languages/Sass_logo.png"/>
 <img align="left" alt="Vue" width="32px"  height="32px" src="./icons/Languages/Vue_logo.png"/>
+<img align="left" alt="Vue" width="32px"  height="32px" src="./icons/Languages/D3JS.png"/>
 
 <!--
 <img align="left" alt="C#" width="32px" src="./icons/Languages/C_Sharp_logo.png"/>
@@ -91,7 +92,6 @@ My Msc is specialized in Interaction and Visualization, and Games.
 # Connect with me
 
 [<img align="center" alt="my linkedin" width="32px" height="32px" src="./icons/Social/linkedin.png" />][linkedin]
-
 
 
 
