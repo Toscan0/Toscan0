@@ -59,7 +59,7 @@ My Msc is specialized in Interaction and Visualization, and Games.
 <img align="left" alt="Unity" width="32px" height="32px" 
   src="./icons/Engines/Unity/unity-tab-square-white.png"/>
 <img align="left" alt="Unreal" width="32px" height="32px" 
-  src="./icons/Engines/UE/Unreal_Engine_Black.png.png"/>
+  src="./icons/Engines/UE/Unreal_Engine_Black.png"/>
 
 <br/>
 
