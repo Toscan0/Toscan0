@@ -67,7 +67,8 @@ My Msc is specialized in Interaction and Visualization, and Games.
 
 <img align="left" alt="Sass" width="32px"  height="32px" src="./icons/Languages/Sass_logo.png"/>
 <img align="left" alt="Vue" width="32px"  height="32px" src="./icons/Languages/Vue_logo.png"/>
-<img align="left" alt="D3,js" width="32px"  height="32px" src="./icons/Languages/D3JS.svg"/>
+<img align="left" alt="D3.js" width="32px"  height="32px" src="./icons/Languages/D3JS.svg"/>
+<img align="left" alt="Three.js" width="32px"  height="32px" src="./icons/Languages/ThreeJS.png"/>
 
 <!--
 <img align="left" alt="C#" width="32px" src="./icons/Languages/C_Sharp_logo.png"/>
