@@ -80,8 +80,8 @@ My Msc is specialized in Interaction and Visualization, and Games.
 
 <img align="left" alt="C#" width="32px" src="./icons/Languages/C_Sharp_logo.png"/>
 <img align="left" alt="Cpp" width="32px" src="./icons/Languages/Cpp_logo.png"/>
-<img align="left" alt="HTML5" width="32px" src="./icons/Languages/HTML5_logo.png"/>
 <img align="left" alt="JavaScript" width="32px" src="./icons/Languages/JS_logo.png"/>
+<img align="left" alt="HTML5" width="32px" src="./icons/Languages/HTML5_logo.png"/>
 <img align="left" alt="CSS3" width="32px" src="./icons/Languages/CSS_logo.png"/>
 
 <br/>
