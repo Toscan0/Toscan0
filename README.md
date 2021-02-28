@@ -76,18 +76,22 @@ My Msc is specialized in Interaction and Visualization, and Games.
 <img align="left" alt="Three.js" width="32px"  height="32px" 
   src="./icons/Frameworks/ThreeJS.png"/>
 
+<br/>
+<br/>
+
 # Languages
-<!--
+
 <img align="left" alt="C#" width="32px" src="./icons/Languages/C_Sharp_logo.png"/>
 <img align="left" alt="Cpp" width="32px" src="./icons/Languages/Cpp_logo.png"/>
 <img align="left" alt="HTML5" width="32px" src="./icons/Languages/HTML5_logo.png"/>
 <img align="left" alt="JavaScript" width="32px" src="./icons/Languages/JS_logo.png"/>
 <img align="left" alt="CSS3" width="32px" src="./icons/Languages/CSS_logo.png"/>
-<img align="left" alt="Sass" width="32px" src="./icons/Languages/Sass_logo.png"/>
-<img align="left" alt="Vue" width="32px" src="./icons/Languages/Vue_logo.png"/>
-<br />
-<br />
-> These are my most recently tools and languages used. But I have more in my toolbox :stuck_out_tongue: -->
+
+<br/>
+<br/>
+
+> These are my most recently tools and languages used. But I have more in my toolbox :stuck_out_tongue:
+
 <br/>
 <br/>
 
@@ -99,7 +103,8 @@ My Msc is specialized in Interaction and Visualization, and Games.
 
 # Connect with me
 
-[<img align="center" alt="my linkedin" width="32px" height="32px" src="./icons/Social/linkedin.png" />][linkedin]
+[<img align="center" alt="my linkedin" width="32px" height="32px" 
+  src="./icons/Social/linkedin.png"/>][linkedin]
 
 
 
