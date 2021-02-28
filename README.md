@@ -55,10 +55,16 @@ My Msc is specialized in Interaction and Visualization, and Games.
    * [Mafeking Siege](https://github.com/Toscan0/Siege-of-Mafeking)  
 
 
-# Engines and Frameworks
+# Engines
 
 <img align="left" alt="Unity" width="32px" height="32px" src="./icons/Tools/Unity/unity-tab-square-white.png"/>
 <img align="left" alt="Unreal" width="32px"  height="32px" src="./icons/Tools/UE/Unreal_Engine_White.png"/>
+
+<br/>
+<br/>
+
+# Frameworks and Libraries
+
 <img align="left" alt="Sass" width="32px"  height="32px" src="./icons/Languages/Sass_logo.png"/>
 <img align="left" alt="Vue" width="32px"  height="32px" src="./icons/Languages/Vue_logo.png"/>
 
@@ -73,14 +79,10 @@ My Msc is specialized in Interaction and Visualization, and Games.
 <br />
 <br />
 > These are my most recently tools and languages used. But I have more in my toolbox :stuck_out_tongue: -->
-<br />
-<br />
+<br/>
+<br/>
 
 # GitHub stats
-
-<!-- <details>
-  <summary>:zap: GitHub Stats</summary>
-</details> -->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Toscan0&count_private=true&show_icons=true&theme=radical)
 
