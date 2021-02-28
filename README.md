@@ -26,11 +26,6 @@ My Msc is specialized in Interaction and Visualization, and Games.
        * [Information Visualization](https://github.com/Toscan0/IST-VI) - Info Vis about Sociopolitical impact at the Oscars - HTML / JS / d3.js / CSS
        * [Virtual Reality](https://github.com/Toscan0/IST-RV) - Virtual reality art gallery  - Unity / C#
        * [User Centered Design](https://github.com/Toscan0/IST-CCU) - Proof of concept for Porto city metro in virtual reality - Unity / C#
- 
-
-* :iphone: Android Apps 
-  * [App Bluetooth Sender](https://github.com/Toscan0/Car_leds) - Send values to an arduino by Bluetooth or BLE - Unity / C#
-
     
 * :trophy: :video_game: Game Jams participations
   * Search For a Star
@@ -45,13 +40,19 @@ My Msc is specialized in Interaction and Visualization, and Games.
    * [Image Bingo](https://github.com/Toscan0/Image-Bingo)
    * [Mafeking Siege](https://github.com/Toscan0/Siege-of-Mafeking)  
 
+* :iphone: Android Apps 
+  * [App Bluetooth Sender](https://github.com/Toscan0/Car_leds) - Send values to an arduino by Bluetooth or BLE - Unity / C#
+
+* :desktop_computer: Windows App
+  * [My version of Gopher360](https://github.com/Toscan0/Gopher360) - Use your Xbox controller like a pc mouse
+
 * Misclandia of projects and tutorials
   * [Dynamic List in C](https://github.com/Toscan0/Dynamic-List-C)
   * [Mix of projects and tutorials in Unity](https://github.com/Toscan0/Unity-Misc)
   * [Mix of projects and tutorials in Unreal](https://github.com/Toscan0/Unreal-Engine-4-misc)
   * [Mix of projects and tutorials in Blender](https://github.com/Toscan0/Blender-Misc)
   * [My pixel art](https://github.com/Toscan0/Pixel-Art)
-  * [My version of Gopher360](https://github.com/Toscan0/Gopher360) - Use your Xbox controller like a pc mouse
+  
 
 # Engines
 
