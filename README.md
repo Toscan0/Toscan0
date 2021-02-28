@@ -84,6 +84,7 @@ My Msc is specialized in Interaction and Visualization, and Games.
 <img align="left" alt="CSS3" width="32px" src="./icons/Languages/CSS_logo.png"/>
 
 <br/>
+<br/>
 
 > These are my most recently tools and languages used. But I have more in my toolbox :stuck_out_tongue:
 
