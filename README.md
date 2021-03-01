@@ -98,7 +98,7 @@ My Msc is specialized in Interaction and Visualization, and Games.
 # Connect with me
 
 [<img align="center" alt="my linkedin" width="32px" height="32px" 
-  src="./icons/Social/linkedin.png"/>][linkedin] &#09; or email me at j.tiago.henriques@tecnico.ulisboa.pt
+  src="./icons/Social/linkedin.png"/>][linkedin] &emsp;  or email me at j.tiago.henriques@tecnico.ulisboa.pt
 
 
 
