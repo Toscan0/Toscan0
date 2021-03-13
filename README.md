@@ -97,8 +97,8 @@ My Msc is specialized in Interaction and Visualization, and Games.
 
 # Connect with me
 
-<img align="left" alt="Itchio" width="32px" src="https://toscan0.itch.io/"/>
-<img align="left" alt="Linkedin" width="32px" src="https://www.linkedin.com/in/tiago-henriques-638252132/"/>
+<img align="left" alt="Itchio" width="32px" src="./icons/Social/itchio-textless-black.svg"/>
+<img align="left" alt="Linkedin" width="32px" src="./icons/Social/linkedin.png"/>
   
 [<img align="center" alt="my itchio" width="32px" height="32px" 
   src="./icons/Social/itchio-textless-black.svg"/>][itchio]
