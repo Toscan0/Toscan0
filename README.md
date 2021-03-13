@@ -100,12 +100,7 @@ My Msc is specialized in Interaction and Visualization, and Games.
 [<img align="left" alt="Itchio" width="32px" src="./icons/Social/itchio-textless-black.svg"/>][itchio]
 [<img align="left" alt="Linkedin" width="32px" src="./icons/Social/linkedin.png"/>][linkedin]
   
-[<img align="center" alt="my itchio" width="32px" height="32px" 
-  src="./icons/Social/itchio-textless-black.svg"/>][itchio]
-
-[<img align="center" alt="my linkedin" width="32px" height="32px" 
-  src="./icons/Social/linkedin.png"/>][linkedin] &ensp;or email me at j.tiago.henriques@tecnico.ulisboa.pt
-
+&ensp;or email me at j.tiago.henriques@tecnico.ulisboa.pt
 
 
 [linkedin]: https://www.linkedin.com/in/tiago-henriques-638252132/
