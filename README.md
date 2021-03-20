@@ -51,6 +51,7 @@ My Msc is specialized in Interaction and Visualization, and Games.
   * [Mix of projects and tutorials in Unity](https://github.com/Toscan0/Unity-Misc)
   * [Mix of projects and tutorials in Unreal](https://github.com/Toscan0/Unreal-Engine-4-misc)
   * [Mix of projects and tutorials in Blender](https://github.com/Toscan0/Blender-Misc)
+  * [Mix of projects and tutorials in Game Maker](https://github.com/Toscan0/GameMaker-Misc)
   * [My pixel art](https://github.com/Toscan0/Pixel-Art)
   
 
