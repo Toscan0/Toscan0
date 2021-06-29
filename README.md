@@ -63,7 +63,8 @@ You can play my games [here][itchio].
   src="./icons/Engines/Unity/unity-tab-square-white.png"/>
 <img align="left" alt="Unreal" width="32px" height="32px" 
   src="./icons/Engines/UE/Unreal_Engine_Black.png"/>
-
+<img align="left" alt="Godot" width="32px" height="32px" 
+  src="./icons/Engines/Godot/godot_color.png"/>
 <br/>
 
 # Frameworks and Libraries
