@@ -24,7 +24,7 @@ You can play my games [here][itchio].
       * [Game Design](https://github.com/Toscan0/IST-DDJ) - 3D Horror/Escape Room/Puzzle Game - Unity / C#
       * [Computer Graphics for Games](https://github.com/Toscan0/IST-CGJ) - Simple Engine - C++ / OpenGL
     * :desktop_computer: Interaction and Visualization
-       * [Interactive Visual Communication](https://github.com/Toscan0/IST-CVI)
+       * [Interactive Visual Communication](https://github.com/Toscan0/IST-CVI) - MATLAB 
        * [Information Visualization](https://github.com/Toscan0/IST-VI) - Info Vis about Sociopolitical impact at the Oscars - HTML / JS / d3.js / CSS
        * [Virtual Reality](https://github.com/Toscan0/IST-RV) - Virtual reality art gallery  - Unity / C#
        * [User Centered Design](https://github.com/Toscan0/IST-CCU) - Proof of concept for Porto city metro in virtual reality - Unity / C#
@@ -33,17 +33,18 @@ You can play my games [here][itchio].
   * Search For a Star
     * [UFO Game](https://github.com/Toscan0/Search-For-A-Star-2021) - Search For a Star 2021 - Unity / C#
   * Nokia 3310 
-    * [Catch The Fly](https://github.com/Toscan0/Nokia-3310-2021)
+    * [Catch The Fly](https://github.com/Toscan0/Nokia-3310-2021) - Nokia-3310 2021 - Unity / C#
   * Global Game Jam
     * [Car Therapy](https://github.com/Toscan0/GGJ2020) - GGJ2020 - Unity / C#
     * [The Flashlight](https://github.com/Toscan0/GGJ2021) - GGJ2021: 2nd place @ Tecnico / Belas-Artes  - Unity / C#
  
  * ⚜️Scouts Games
-   * [Image Bingo](https://github.com/Toscan0/Image-Bingo)
-   * [Mafeking Siege](https://github.com/Toscan0/Siege-of-Mafeking)  
+   * [Image Bingo](https://github.com/Toscan0/Image-Bingo) - Unity / C#
+   * [Mafeking Siege](https://github.com/Toscan0/Siege-of-Mafeking) - Unity / C#
 
 * :iphone: Android Apps 
   * [App Bluetooth Sender](https://github.com/Toscan0/Car_leds) - Send values to an arduino by Bluetooth or BLE - Unity / C#
+  * [Tic Tac Toe](https://github.com/Toscan0/Tic-Tac-Toe) - Unity / C#
 
 * :desktop_computer: Windows App
   * [My version of Gopher360](https://github.com/Toscan0/Gopher360) - Use your Xbox controller like a pc mouse
