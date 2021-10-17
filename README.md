@@ -37,6 +37,8 @@ You can play my games [here][itchio].
   * Global Game Jam
     * [Car Therapy](https://github.com/Toscan0/GGJ2020) - GGJ2020 - Unity / C#
     * [The Flashlight](https://github.com/Toscan0/GGJ2021) - GGJ2021: 2nd place @ Tecnico / Belas-Artes  - Unity / C#
+  * Hyper Game Jam
+    * [Asteroid Tapper](https://github.com/Toscan0/Hyper-Game-Jam-2021) - Hyper Casual Jam 2021 - Unity / C#
  
  * ⚜️Scouts Games
    * [Image Bingo](https://github.com/Toscan0/Image-Bingo) - Unity / C#
