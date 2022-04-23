@@ -47,14 +47,6 @@ You can play my games [here][itchio].
   * Hyper Game Jam
     * [Asteroid Tapper](https://github.com/Toscan0/Hyper-Game-Jam-2021) - Hyper Casual Jam 2021 - Unity / C#
  </details>
- 
-<details>
-  <summary> ⚜️Scouts Games </summary>
-  <br>
- 
-   * [Image Bingo](https://github.com/Toscan0/Image-Bingo) - Unity / C#
-   * [Mafeking Siege](https://github.com/Toscan0/Siege-of-Mafeking) - Unity / C#
-</details>
 
 <details open>
    <summary> :iphone: Android Apps </summary>
@@ -65,9 +57,17 @@ You can play my games [here][itchio].
 </details>
 
 <details open>
-   <summary> :desktop_computer: Windows App </summary>
+   <summary> :desktop_computer: Windows Apps </summary>
  
   * [My version of Gopher360](https://github.com/Toscan0/Gopher360) - Use your Xbox controller like a pc mouse
+</details>
+
+<details>
+  <summary> ⚜️Scouts Games </summary>
+  <br>
+ 
+   * [Image Bingo](https://github.com/Toscan0/Image-Bingo) - Unity / C#
+   * [Mafeking Siege](https://github.com/Toscan0/Siege-of-Mafeking) - Unity / C#
 </details>
 
 <details>
