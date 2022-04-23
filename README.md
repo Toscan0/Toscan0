@@ -85,11 +85,11 @@ You can play my games [here][itchio].
 # Engines
 
 <img align="left" alt="Unity" width="32px" height="32px" 
-  src="./icons/Engines/Unity/unity-tab-square-white.png"/>
+  src="./icons/Engines/Unity/unity-tab-square-white.png"  title="Unity" />
 <img align="left" alt="Unreal" width="32px" height="32px" 
-  src="./icons/Engines/UE/Unreal_Engine_Black.png"/>
+  src="./icons/Engines/UE/Unreal_Engine_Black.png"  title="Unreal" />
 <img align="left" alt="Godot" width="32px" height="32px" 
-  src="./icons/Engines/Godot/godot_color.png"/>
+  src="./icons/Engines/Godot/godot_color.png"  title="Godot" />
 <br/>
 
 # Frameworks and Libraries
@@ -107,11 +107,12 @@ You can play my games [here][itchio].
 
 # Languages
 
-<img align="left" alt="C#" width="32px" src="./icons/Languages/C_Sharp_logo.png"/>
-<img align="left" alt="Cpp" width="32px" src="./icons/Languages/Cpp_logo.png"/>
-<img align="left" alt="JavaScript" width="32px" src="./icons/Languages/JS_logo.png"/>
-<img align="left" alt="HTML5" width="32px" src="./icons/Languages/HTML5_logo.png"/>
-<img align="left" alt="CSS3" width="32px" src="./icons/Languages/CSS_logo.png"/>
+<img align="left" alt="C#" width="32px" src="./icons/Languages/C_Sharp_logo.png" title="C#" />
+<img align="left" alt="C++" width="32px" src="./icons/Languages/Cpp_logo.png" title="C++" />
+<img align="left" alt="JavaScript" width="32px" src="./icons/Languages/JS_logo.png" title="JavaScript" />
+<img align="left" alt="HTML5" width="32px" src="./icons/Languages/HTML5_logo.png" title="HTML5" />
+<img align="left" alt="CSS3" width="32px" src="./icons/Languages/CSS_logo.png" title="CSS3" />
+<img align="left" alt="SQL" width="32px" src="./icons/Languages/CSS_logo.png" title="SQL" />
 
 <br/>
 <br/>
