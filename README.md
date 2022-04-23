@@ -71,7 +71,7 @@ You can play my games [here][itchio].
 </details>
 
 <details>
-  <summary> Misclandia of projects and tutorials </summary>
+  <summary> 👨‍💻 Misclandia of projects and tutorials </summary>
   <br>
  
   * [Dynamic List in C](https://github.com/Toscan0/Dynamic-List-C)
