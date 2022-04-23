@@ -31,10 +31,12 @@ You can play my games [here][itchio].
         * [Information Visualization](https://github.com/Toscan0/IST-VI) - Info Vis about Sociopolitical impact at the Oscars - HTML / JS / d3.js / CSS
         * [Virtual Reality](https://github.com/Toscan0/IST-RV) - Virtual reality art gallery  - Unity / C#
         * [User Centered Design](https://github.com/Toscan0/IST-CCU) - Proof of concept for Porto city metro in virtual reality - Unity / C#
- </p>
 </details>
 
-* :trophy: :video_game: Game Jams participations
+<details open>
+ <summary> :trophy: :video_game: Game Jams participations </summary>
+ <br>
+ 
   * Search For a Star
     * [UFO Game](https://github.com/Toscan0/Search-For-A-Star-2021) - Search For a Star 2021 - Unity / C#
   * Nokia 3310 
@@ -44,26 +46,41 @@ You can play my games [here][itchio].
     * [The Flashlight](https://github.com/Toscan0/GGJ2021) - GGJ2021: 2nd place @ Tecnico / Belas-Artes  - Unity / C#
   * Hyper Game Jam
     * [Asteroid Tapper](https://github.com/Toscan0/Hyper-Game-Jam-2021) - Hyper Casual Jam 2021 - Unity / C#
+ </details>
  
- * ⚜️Scouts Games
+<details>
+  <summary> ⚜️Scouts Games </summary>
+  <br>
+ 
    * [Image Bingo](https://github.com/Toscan0/Image-Bingo) - Unity / C#
    * [Mafeking Siege](https://github.com/Toscan0/Siege-of-Mafeking) - Unity / C#
+</details>
 
-* :iphone: Android Apps 
+<details open>
+   <summary> :iphone: Android Apps </summary>
+   <br>
+ 
   * [App Bluetooth Sender](https://github.com/Toscan0/Car_leds) - Send values to an arduino by Bluetooth or BLE - Unity / C#
   * [Tic Tac Toe](https://github.com/Toscan0/Tic-Tac-Toe) - Unity / C#
+</details>
 
-* :desktop_computer: Windows App
+<details open>
+   <summary> :desktop_computer: Windows App </summary>
+ 
   * [My version of Gopher360](https://github.com/Toscan0/Gopher360) - Use your Xbox controller like a pc mouse
+</details>
 
-* Misclandia of projects and tutorials
+<details>
+  <summary> Misclandia of projects and tutorials </summary>
+  <br>
+ 
   * [Dynamic List in C](https://github.com/Toscan0/Dynamic-List-C)
   * [Mix of projects and tutorials in Unity](https://github.com/Toscan0/Unity-Misc)
   * [Mix of projects and tutorials in Unreal](https://github.com/Toscan0/Unreal-Engine-4-misc)
   * [Mix of projects and tutorials in Blender](https://github.com/Toscan0/Blender-Misc)
   * [Mix of projects and tutorials in Game Maker](https://github.com/Toscan0/GameMaker-Misc)
   * [My pixel art](https://github.com/Toscan0/Pixel-Art)
-  
+ </details> 
 
 # Engines
 
@@ -77,15 +94,15 @@ You can play my games [here][itchio].
 
 # Frameworks and Libraries
 
-<img align="left" alt="Sass" width="32px"  height="32px" 
-  src="./icons/Frameworks/Sass_logo.png"/>
 <img align="left" alt="Vue" width="32px"  height="32px" 
-  src="./icons/Frameworks/Vue_logo.png"/>
+  src="./icons/Frameworks/Vue_logo.png" title="Vue" />
 <img align="left" alt="D3.js" width="32px"  height="32px" 
-  src="./icons/Frameworks/D3JS.svg"/>
+  src="./icons/Frameworks/D3JS.svg" title="D3.js"/>
 <img align="left" alt="Three.js" width="32px"  height="32px" 
-  src="./icons/Frameworks/ThreeJS.png"/>
-
+  src="./icons/Frameworks/ThreeJS.png" title="Three.js" />
+<img align="left" alt="Sass" width="32px"  height="32px" 
+  src="./icons/Frameworks/Sass_logo.png" title="Sass" />
+  
 <br/>
 
 # Languages
