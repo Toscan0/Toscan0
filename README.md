@@ -8,27 +8,32 @@ You can play my games [here][itchio].
 
 # Portfolio
 
-* :mortar_board: University Projects - Instituto Superior Técnico (IST) 
-  * Degree 
-    * [Programming Fundamentals](https://github.com/Toscan0/IST-FP) - Python project 
-    * [Operating Systems](https://github.com/Toscan0/IST-SO) - C project
-    * [Software Engineering](https://github.com/Toscan0/IST-ES) - Java project
-    * [Distributed Systems](https://github.com/Toscan0/IST-SD) - Java project
-    * [Computer Graphics](https://github.com/Toscan0/IST-CG) - Space Invaders game in Three.js
-    * [Artificial intelligence](https://github.com/Toscan0/IST-IA) - Lisp project
-    * [Database](https://github.com/Toscan0/IST-BD) - SQL project
-  * Master
-    * :video_game: Games
-      * [Master Thesis](https://github.com/Toscan0/IST-Thesis-FaradayMuseum) - Serious game for Android with augmented reality in the context of a museum - Unity / C# 
-      * [Game Development Methodology](https://github.com/Toscan0/IST-MDJ) - 2D Platformer Game - Unity / C#
-      * [Game Design](https://github.com/Toscan0/IST-DDJ) - 3D Horror/Escape Room/Puzzle Game - Unity / C#
-      * [Computer Graphics for Games](https://github.com/Toscan0/IST-CGJ) - Simple Engine - C++ / OpenGL
-    * :desktop_computer: Interaction and Visualization
-       * [Interactive Visual Communication](https://github.com/Toscan0/IST-CVI) - MATLAB 
-       * [Information Visualization](https://github.com/Toscan0/IST-VI) - Info Vis about Sociopolitical impact at the Oscars - HTML / JS / d3.js / CSS
-       * [Virtual Reality](https://github.com/Toscan0/IST-RV) - Virtual reality art gallery  - Unity / C#
-       * [User Centered Design](https://github.com/Toscan0/IST-CCU) - Proof of concept for Porto city metro in virtual reality - Unity / C#
-    
+<details>
+ <summary> :mortar_board: University Projects - Instituto Superior Técnico (IST) </summary>
+ <br>
+
+ * Degree 
+     * [Programming Fundamentals](https://github.com/Toscan0/IST-FP) - Python project 
+     * [Operating Systems](https://github.com/Toscan0/IST-SO) - C project
+     * [Software Engineering](https://github.com/Toscan0/IST-ES) - Java project
+     * [Distributed Systems](https://github.com/Toscan0/IST-SD) - Java project
+     * [Computer Graphics](https://github.com/Toscan0/IST-CG) - Space Invaders game in Three.js
+     * [Artificial intelligence](https://github.com/Toscan0/IST-IA) - Lisp project
+     * [Database](https://github.com/Toscan0/IST-BD) - SQL project
+   * Master
+     * :video_game: Games
+       * [Master Thesis](https://github.com/Toscan0/IST-Thesis-FaradayMuseum) - Serious game for Android with augmented reality in the context of a museum - Unity / C# 
+       * [Game Development Methodology](https://github.com/Toscan0/IST-MDJ) - 2D Platformer Game - Unity / C#
+       * [Game Design](https://github.com/Toscan0/IST-DDJ) - 3D Horror/Escape Room/Puzzle Game - Unity / C#
+       * [Computer Graphics for Games](https://github.com/Toscan0/IST-CGJ) - Simple Engine - C++ / OpenGL
+     * :desktop_computer: Interaction and Visualization
+        * [Interactive Visual Communication](https://github.com/Toscan0/IST-CVI) - MATLAB 
+        * [Information Visualization](https://github.com/Toscan0/IST-VI) - Info Vis about Sociopolitical impact at the Oscars - HTML / JS / d3.js / CSS
+        * [Virtual Reality](https://github.com/Toscan0/IST-RV) - Virtual reality art gallery  - Unity / C#
+        * [User Centered Design](https://github.com/Toscan0/IST-CCU) - Proof of concept for Porto city metro in virtual reality - Unity / C#
+ </p>
+</details>
+
 * :trophy: :video_game: Game Jams participations
   * Search For a Star
     * [UFO Game](https://github.com/Toscan0/Search-For-A-Star-2021) - Search For a Star 2021 - Unity / C#
