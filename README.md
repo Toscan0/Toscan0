@@ -112,7 +112,7 @@ You can play my games [here][itchio].
 <img align="left" alt="JavaScript" width="32px" src="./icons/Languages/JS_logo.png" title="JavaScript" />
 <img align="left" alt="HTML5" width="32px" src="./icons/Languages/HTML5_logo.png" title="HTML5" />
 <img align="left" alt="CSS3" width="32px" src="./icons/Languages/CSS_logo.png" title="CSS3" />
-<img align="left" alt="SQL" width="32px" src="./icons/Languages/CSS_logo.png" title="SQL" />
+<img align="left" alt="SQL" width="32px" src="./icons/Languages/SQL_logo.png" title="SQL" />
 
 <br/>
 <br/>
