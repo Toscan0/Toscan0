@@ -29,7 +29,7 @@ You can play my games [here][itchio].
           <a href="https://github.com/Toscan0/IST-SD" title="Java project">Distributed Systems</a>
         </li>
         <li>
-          <a href="hhttps://github.com/Toscan0/IST-CG" title="Three.js">Computer Graphics</a>
+          <a href="https://github.com/Toscan0/IST-CG" title="Three.js">Computer Graphics</a>
         </li>
         <li>
           <a href="https://github.com/Toscan0/IST-IA" title="Lisp project">Artificial intelligence</a>
@@ -63,7 +63,7 @@ You can play my games [here][itchio].
         <li> :desktop_computer: Interaction and Visualization
           <ul>
             <li>
-              <a href=https://github.com/Toscan0/IST-CVI" title="MATLAB">Interactive Visual Communication</a>
+              <a href="https://github.com/Toscan0/IST-CVI" title="MATLAB">Interactive Visual Communication</a>
             </li>
             <li>
               <a href="https://github.com/Toscan0/IST-VI" title="Info Vis about Sociopolitical impact at the Oscars - HTML / JS / d3.js / CSS">Information Visualization</a>
