@@ -37,37 +37,86 @@ You can play my games [here][itchio].
  <summary> :trophy: :video_game: Game Jams participations </summary>
  <br>
  
-  * Search For a Star
-    * [UFO Game](https://github.com/Toscan0/Search-For-A-Star-2021) - Search For a Star 2021 - Unity / C#
-  * Nokia 3310 
-    * [Catch The Fly](https://github.com/Toscan0/Nokia-3310-2021) - Nokia-3310 2021 - Unity / C#
-  * Global Game Jam
-    * [Car Therapy](https://github.com/Toscan0/GGJ2020) - GGJ2020 - Unity / C#
-    * [The Flashlight](https://github.com/Toscan0/GGJ2021) - GGJ2021: 2nd place @ Tecnico / Belas-Artes  - Unity / C#
-  * Hyper Game Jam
-    * [Asteroid Tapper](https://github.com/Toscan0/Hyper-Game-Jam-2021) - Hyper Casual Jam 2021 - Unity / C#
+  <ul>
+    <li>
+      Search For a Star
+      <ul>
+        <li>
+          <a href="https://github.com/Toscan0/Search-For-A-Star-2021" title="Unity / C#">UFO Game</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      Nokia 3310
+      <ul>
+        <li>
+          <a href="https://github.com/Toscan0/Nokia-3310-2021" title="Unity / C#">Catch The Fly</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      Global Game Jam
+      <ul>
+        <li>
+          <a href="https://github.com/Toscan0/GGJ2021" title="2nd place @ Tecnico / Belas-Artes  - Unity / C#">The Flashlight</a>
+        </li>
+        <li>
+          <a href="https://github.com/Toscan0/GGJ2020" title="Unity / C#">Car Therapy</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      Hyper Game Jam
+      <ul>
+        <li>
+          <a href="https://github.com/Toscan0/Hyper-Game-Jam-2021" title="Unity / C#">Asteroid Tapper</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+
  </details>
 
 <details open>
-   <summary> :iphone: Android Apps </summary>
-   <br>
- 
-  * [App Bluetooth Sender](https://github.com/Toscan0/Car_leds) - Send values to an arduino by Bluetooth or BLE - Unity / C#
-  * [Tic Tac Toe](https://github.com/Toscan0/Tic-Tac-Toe) - Unity / C#
+ <summary> :iphone: Android Apps </summary>
+ <br>
+  
+  <ul>
+    <li>
+      <a href="https://github.com/Toscan0/Car_leds" title="Send values to an arduino by Bluetooth or BLE - Unity / C#">App Bluetooth Sender</a>
+    </li>
+    <li>
+      <a href="https://github.com/Toscan0/Tic-Tac-Toe" title="Unity / C#">Tic Tac Toe</a>
+    </li>
+  </ul>
+
 </details>
 
 <details open>
-   <summary> :desktop_computer: Windows Apps </summary>
+  <summary> :desktop_computer: Windows Apps </summary>
+  <br>
+
+  <ul>
+    <li>
+      <a href="https://github.com/Toscan0/Gopher360" title="Use your Xbox controller like a pc mouse">My version of Gopher360</a>
+    </li>
+  </ul>
  
-  * [My version of Gopher360](https://github.com/Toscan0/Gopher360) - Use your Xbox controller like a pc mouse
 </details>
 
 <details>
   <summary> ⚜️Scouts Games </summary>
   <br>
  
-   * [Image Bingo](https://github.com/Toscan0/Image-Bingo) - Unity / C#
-   * [Mafeking Siege](https://github.com/Toscan0/Siege-of-Mafeking) - Unity / C#
+  <ul>
+    <li>
+      <a href="https://github.com/Toscan0/Image-Bingo" title="Unity / C#">Image Bingo</a>
+    </li>
+    <li>
+      <a href="https://github.com/Toscan0/Siege-of-Mafeking" title="Unity / C#">Mafeking Siege</a>
+    </li>
+  </ul>
+
 </details>
 
 <details>
@@ -79,16 +128,22 @@ You can play my games [here][itchio].
       <a href="https://github.com/Toscan0/Dynamic-List-C" title="Dynamic List in C">Dynamic List in C</a>
     </li>
     <li>
-      <a href="https://github.com/Toscan0/Dynamic-List-C" title="Dynamic List in C">Dynamic List in C</a>
+      <a href="https://github.com/Toscan0/Unity-Misc" title="Mix of projects and tutorials in Unity">Unity projects and tutorials</a>
+    </li>
+    <li>
+      <a href="https://github.com/Toscan0/Unreal-Engine-4-misc" title="Mix of projects and tutorials in Unreal">Unreal projects and tutorials</a>
+    </li>
+    <li>
+      <a href="https://github.com/Toscan0/Blender-Misc" title="Mix of projects and tutorials in Blender">Blender projects and tutorials</a>
+    </li>
+    <li>
+      <a href="https://github.com/Toscan0/GameMaker-Misc" title="Mix of projects and tutorials in Game Maker">Game Maker projects and tutorials</a>
+    </li>
+    <li>
+      <a href="https://github.com/Toscan0/Pixel-Art" title="My pixel art">My pixel art</a>
     </li>
   </ul>
- 
-  * [Dynamic List in C](https://github.com/Toscan0/Dynamic-List-C)
-  * [Mix of projects and tutorials in Unity](https://github.com/Toscan0/Unity-Misc)
-  * [Mix of projects and tutorials in Unreal](https://github.com/Toscan0/Unreal-Engine-4-misc)
-  * [Mix of projects and tutorials in Blender](https://github.com/Toscan0/Blender-Misc)
-  * [Mix of projects and tutorials in Game Maker](https://github.com/Toscan0/GameMaker-Misc)
-  * [My pixel art](https://github.com/Toscan0/Pixel-Art)
+
  </details> 
 
 :bulb: [My gists](https://gist.github.com/Toscan0)
@@ -138,8 +193,8 @@ You can play my games [here][itchio].
 
 # Connect with me
 
-[<img align="left" alt="Itchio" width="32px" src="./icons/Social/itchio-textless-black.svg"/>][itchio]
-[<img align="left" alt="Linkedin" width="32px" src="./icons/Social/linkedin.png"/>][linkedin]
+[<img align="left" alt="Itchio" width="32px" src="./icons/Social/itchio-textless-black.svg" title="Itch.io" />][itchio]
+[<img align="left" alt="Linkedin" width="32px" src="./icons/Social/linkedin.png" title="LinkedIn" />][linkedin]
   
 &ensp;or email me at j.tiago.henriques@tecnico.ulisboa.pt
 
