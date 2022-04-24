@@ -12,25 +12,74 @@ You can play my games [here][itchio].
  <summary> :mortar_board: University Projects - Instituto Superior Técnico (IST) </summary>
  <br>
 
- * Degree 
-     * [Programming Fundamentals](https://github.com/Toscan0/IST-FP) - Python project 
-     * [Operating Systems](https://github.com/Toscan0/IST-SO) - C project
-     * [Software Engineering](https://github.com/Toscan0/IST-ES) - Java project
-     * [Distributed Systems](https://github.com/Toscan0/IST-SD) - Java project
-     * [Computer Graphics](https://github.com/Toscan0/IST-CG) - Space Invaders game in Three.js
-     * [Artificial intelligence](https://github.com/Toscan0/IST-IA) - Lisp project
-     * [Database](https://github.com/Toscan0/IST-BD) - SQL project
-   * Master
-     * :video_game: Games
-       * [Master Thesis](https://github.com/Toscan0/IST-Thesis-FaradayMuseum) - Serious game for Android with augmented reality in the context of a museum - Unity / C# 
-       * [Game Development Methodology](https://github.com/Toscan0/IST-MDJ) - 2D Platformer Game - Unity / C#
-       * [Game Design](https://github.com/Toscan0/IST-DDJ) - 3D Horror/Escape Room/Puzzle Game - Unity / C#
-       * [Computer Graphics for Games](https://github.com/Toscan0/IST-CGJ) - Simple Engine - C++ / OpenGL
-     * :desktop_computer: Interaction and Visualization
-        * [Interactive Visual Communication](https://github.com/Toscan0/IST-CVI) - MATLAB 
-        * [Information Visualization](https://github.com/Toscan0/IST-VI) - Info Vis about Sociopolitical impact at the Oscars - HTML / JS / d3.js / CSS
-        * [Virtual Reality](https://github.com/Toscan0/IST-RV) - Virtual reality art gallery  - Unity / C#
-        * [User Centered Design](https://github.com/Toscan0/IST-CCU) - Proof of concept for Porto city metro in virtual reality - Unity / C#
+  <ul>
+    <li>
+      Degree
+      <ul>
+        <li>
+          <a href="https://github.com/Toscan0/IST-FP" title="Python project">Programming Fundamentals</a>
+        </li>
+        <li>
+          <a href="https://github.com/Toscan0/IST-SO" title="C project">Operating Systems</a>
+        </li>
+        <li>
+          <a href="https://github.com/Toscan0/IST-ES" title="Java project">Software Engineering</a>
+        </li>
+        <li>
+          <a href="https://github.com/Toscan0/IST-SD" title="Java project">Distributed Systems</a>
+        </li>
+        <li>
+          <a href="hhttps://github.com/Toscan0/IST-CG" title="Three.js">Computer Graphics</a>
+        </li>
+        <li>
+          <a href="https://github.com/Toscan0/IST-IA" title="Lisp project">Artificial intelligence</a>
+        </li>
+        <li>
+          <a href="https://github.com/Toscan0/IST-BD" title="SQL project">Database</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      Master
+      <ul>
+        <li> :video_game: Games
+          <ul>
+            <li>
+              <a href="https://github.com/Toscan0/IST-Thesis-FaradayMuseum" title="Serious game for Android with augmented reality in the context of a museum - Unity / C#">Master Thesis</a>
+            </li>
+            <li>
+              <a href="https://github.com/Toscan0/IST-MDJ" title="2D Platformer Game - Unity / C#">Game Development Methodology</a>
+            </li>
+            <li>
+              <a href="https://github.com/Toscan0/IST-DDJ" title="3D Horror/Escape Room/Puzzle Game - Unity / C#">Game Design</a>
+            </li>
+            <li>
+              <a href="https://github.com/Toscan0/IST-CGJ" title="Simple Engine - C++ / OpenGL">Computer Graphics for Games</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <ul>
+        <li> :desktop_computer: Interaction and Visualization
+          <ul>
+            <li>
+              <a href=https://github.com/Toscan0/IST-CVI" title="MATLAB">Interactive Visual Communication</a>
+            </li>
+            <li>
+              <a href="https://github.com/Toscan0/IST-VI" title="Info Vis about Sociopolitical impact at the Oscars - HTML / JS / d3.js / CSS">Information Visualization</a>
+            </li>
+            <li>
+              <a href="https://github.com/Toscan0/IST-RV" title="Virtual reality art gallery - Unity / C#">Virtual Reality</a>
+            </li>
+            <li>
+              <a href="https://github.com/Toscan0/IST-CCU" title="Proof of concept for Porto city metro in virtual reality - Unity / C#">User Centered Design</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+ 
 </details>
 
 <details open>
