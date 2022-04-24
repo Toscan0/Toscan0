@@ -82,7 +82,7 @@ You can play my games [here][itchio].
   * [My pixel art](https://github.com/Toscan0/Pixel-Art)
  </details> 
 
-:gift: [My gists](https://gist.github.com/Toscan0)
+:bulb: [My gists](https://gist.github.com/Toscan0)
 
 # Engines
 
