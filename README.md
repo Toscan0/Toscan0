@@ -74,6 +74,15 @@ You can play my games [here][itchio].
   <summary> 👨‍💻 Misclandia of projects and tutorials </summary>
   <br>
  
+   <ul>
+    <li>
+      <a href="https://github.com/Toscan0/Dynamic-List-C" title="Dynamic List in C">Dynamic List in C</a>
+    </li>
+    <li>
+      <a href="https://github.com/Toscan0/Dynamic-List-C" title="Dynamic List in C">Dynamic List in C</a>
+    </li>
+  </ul>
+ 
   * [Dynamic List in C](https://github.com/Toscan0/Dynamic-List-C)
   * [Mix of projects and tutorials in Unity](https://github.com/Toscan0/Unity-Misc)
   * [Mix of projects and tutorials in Unreal](https://github.com/Toscan0/Unreal-Engine-4-misc)
