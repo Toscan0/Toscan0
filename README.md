@@ -191,6 +191,9 @@ You can play my games [here][itchio].
     <li>
       <a href="https://github.com/Toscan0/Pixel-Art" title="My pixel art">My pixel art</a>
     </li>
+    <li>
+     <a href="https://github.com/Toscan0/Vue-3-Masterclass" title="Vue.js 3 Masterclass certification by Vue School">Vue.js 3 Masterclass</a>
+    </li>
   </ul>
 
  </details> 
