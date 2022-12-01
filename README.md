@@ -82,7 +82,7 @@ You can play my games [here][itchio].
  
 </details>
 
-<details open>
+<details>
  <summary> :trophy: :video_game: Game Jams participations </summary>
  <br>
  
@@ -126,7 +126,7 @@ You can play my games [here][itchio].
 
  </details>
 
-<details open>
+<details>
  <summary> :iphone: Android Apps </summary>
  <br>
   
@@ -141,7 +141,7 @@ You can play my games [here][itchio].
 
 </details>
 
-<details open>
+<details>
   <summary> :desktop_computer: Windows Apps </summary>
   <br>
 
@@ -168,7 +168,7 @@ You can play my games [here][itchio].
 
 </details>
 
-<details>
+<details open>
   <summary> 👨‍💻 Misclandia of projects and tutorials </summary>
   <br>
  
