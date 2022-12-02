@@ -4,7 +4,7 @@ My name is Tiago Henriques, but my friends call me Toscano.\
 I took Information Systems and Computer Engineering at Instituto Superior Técnico in Lisbon, Portugal.\
 My Msc is specialized in Interaction and Visualization, and Games. 
 
-You can play my games [here][itchio].
+You can play a few of my games [here][itchio].
 
 # Portfolio
 
@@ -174,7 +174,10 @@ You can play my games [here][itchio].
  
    <ul>
     <li>
-      <a href="https://github.com/Toscan0/Dynamic-List-C" title="Dynamic List in C">Dynamic List in C</a>
+     <a href="https://github.com/Toscan0/web-developer-misc" title="Mix of Web Dev projects and tutorials">Web Development</a>
+    </li>
+    <li>
+     <a href="https://github.com/Toscan0/Vue-3-Masterclass" title="Vue.js 3 Masterclass certification by Vue School">Vue.js 3 Masterclass</a>
     </li>
     <li>
       <a href="https://github.com/Toscan0/Unity-Misc" title="Mix of projects and tutorials in Unity">Unity projects and tutorials</a>
@@ -189,11 +192,11 @@ You can play my games [here][itchio].
       <a href="https://github.com/Toscan0/GameMaker-Misc" title="Mix of projects and tutorials in Game Maker">Game Maker projects and tutorials</a>
     </li>
     <li>
-      <a href="https://github.com/Toscan0/Pixel-Art" title="My pixel art">My pixel art</a>
+      <a href="https://github.com/Toscan0/Dynamic-List-C" title="Dynamic List in C">Dynamic List in C</a>
     </li>
     <li>
-     <a href="https://github.com/Toscan0/Vue-3-Masterclass" title="Vue.js 3 Masterclass certification by Vue School">Vue.js 3 Masterclass</a>
-    </li>
+      <a href="https://github.com/Toscan0/Pixel-Art" title="My pixel art">My pixel art</a>
+    </li> 
   </ul>
 
  </details> 
