@@ -180,9 +180,6 @@ You can play a few of my games [here][itchio].
      <a href="https://github.com/Toscan0/Vue-3-Masterclass" title="Vue.js 3 Masterclass certification by Vue School">Vue.js 3 Masterclass</a>
     </li>
     <li>
-     <a href="https://github.com/Toscan0/react-misc" title="Mix of projects and tutorials in React.js">React.js projects and tutorials</a>
-    </li>
-    <li>
       <a href="https://github.com/Toscan0/Unity-Misc" title="Mix of projects and tutorials in Unity">Unity projects and tutorials</a>
     </li>
     <li>
