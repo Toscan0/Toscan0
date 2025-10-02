@@ -2,7 +2,7 @@
 
 My name is Tiago Henriques, but my friends call me Toscano.\
 I took Information Systems and Computer Engineering at Instituto Superior Técnico in Lisbon, Portugal.\
-My Msc is specialized in Interaction and Visualization, and Games. 
+My Msc is specialized in Interaction and Visualization, and Games.\
 Currently working as FE Tech Lead at EY Portugal
 
 You can play a few of my games [here][itchio].
