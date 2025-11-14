@@ -1,13 +1,10 @@
-# About Me :wave:
+# :wave: About Me
 
 My name is Tiago Henriques, but my friends call me Toscano.\
 I took Information Systems and Computer Engineering at Instituto Superior Técnico in Lisbon, Portugal.\
-My Msc is specialized in Interaction and Visualization, and Games.\
-Currently working as FE Tech Lead at EY Portugal
+Currently working as Front-End Team Lead at EY Portugal
 
-You can play a few of my games [here][itchio].
-
-# Portfolio
+# 📂 Portfolio
 
 <details>
  <summary> :mortar_board: University Projects - Instituto Superior Técnico (IST) </summary>
@@ -200,60 +197,97 @@ You can play a few of my games [here][itchio].
     </li> 
   </ul>
 
- </details> 
+ </details>
 
 :bulb: [My gists](https://gist.github.com/Toscan0)
 
-# Engines
+🎮 Play my games [here](https://toscan0.itch.io/)
 
-<img align="left" alt="Unity" width="32px" height="32px" 
-  src="./icons/Engines/Unity/unity-tab-square-white.png"  title="Unity" />
-<img align="left" alt="Unreal" width="32px" height="32px" 
-  src="./icons/Engines/UE/Unreal_Engine_Black.png"  title="Unreal" />
-<img align="left" alt="Godot" width="32px" height="32px" 
-  src="./icons/Engines/Godot/godot_color.png"  title="Godot" />
-<br/>
+# 💻 Tech Stack
 
-# Frameworks and Libraries
+### Languages
 
-<img align="left" alt="Vue" width="32px"  height="32px" 
-  src="./icons/Frameworks/Vue_logo.png" title="Vue" />
-<img align="left" alt="D3.js" width="32px"  height="32px" 
-  src="./icons/Frameworks/D3JS.svg" title="D3.js"/>
-<img align="left" alt="Three.js" width="32px"  height="32px" 
-  src="./icons/Frameworks/ThreeJS.png" title="Three.js" />
-<img align="left" alt="Sass" width="32px"  height="32px" 
-  src="./icons/Frameworks/Sass_logo.png" title="Sass" />
-  
-<br/>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# Languages
+### Frameworks, Platforms & Libraries
 
-<img align="left" alt="C#" width="32px" src="./icons/Languages/C_Sharp_logo.png" title="C#" />
-<img align="left" alt="C++" width="32px" src="./icons/Languages/Cpp_logo.png" title="C++" />
-<img align="left" alt="JavaScript" width="32px" src="./icons/Languages/JS_logo.png" title="JavaScript" />
-<img align="left" alt="HTML5" width="32px" src="./icons/Languages/HTML5_logo.png" title="HTML5" />
-<img align="left" alt="CSS3" width="32px" src="./icons/Languages/CSS_logo.png" title="CSS3" />
-<img align="left" alt="SQL" width="32px" src="./icons/Languages/SQL_logo.png" title="SQL" />
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 
-<br/>
-<br/>
+### Databases
 
-> These are my most recently tools and languages used. But I have more in my toolbox :stuck_out_tongue:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# GitHub stats
+### Design
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Toscan0&count_private=true&show_icons=true&theme=radical)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-![My most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toscan0&count_private=true&show_icons=true&theme=radical)
+### Testing
 
-# Connect with me
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-[<img align="left" alt="Itchio" width="32px" src="./icons/Social/itchio-textless-black.svg" title="Itch.io" />][itchio]
-[<img align="left" alt="Linkedin" width="32px" src="./icons/Social/linkedin.png" title="LinkedIn" />][linkedin]
-  
-&ensp;or email me at tiago-toscano@hotmail.com
+### CI/CD
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-[linkedin]: https://www.linkedin.com/in/tiago-henriques-638252132/
-[itchio]: https://toscan0.itch.io/
+### Engines
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+
+### Other
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Toscan0&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Toscan0&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Toscan0&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Toscan0&theme=transparent&no-frame=true&no-bg=true&margin-w=4) -->
+
+# 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tiago-henriques-638252132/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiago-toscano@hotmail.com)
+
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
