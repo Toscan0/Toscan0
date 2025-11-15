@@ -207,14 +207,14 @@ Currently working as Front-End Team Lead at EY Portugal
 
 ### Languages
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-red.svg?style=for-the-badge&logo=json&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Frameworks, Platforms & Libraries
@@ -226,20 +226,21 @@ Currently working as Front-End Team Lead at EY Portugal
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
-![VueX](https://img.shields.io/badge/VueX-2978D1?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+![VueX](https://img.shields.io/badge/VueX-%2335495e?style=for-the-badge&logo=vuedotjs&logoColor=AEDDFF)
 ![SASS/SCSS](https://img.shields.io/badge/SASS%2FSCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![Axios](https://img.shields.io/badge/-Axios-311CDF?style=for-the-badge&logo=axios)
+![Axios](https://img.shields.io/badge/-Axios-%5A29E4?style=for-the-badge&logo=axios)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![i18next](https://img.shields.io/badge/i18next-%41991CB.svg?style=for-the-badge&logo=i18next&logoColor=white)
-![TinyMCE](https://img.shields.io/badge/TinyMCE-%41881CB.svg?style=for-the-badge&logo=TinyMCE&logoColor=white)
+![i18next](https://img.shields.io/badge/i18next-%26A69A.svg?style=for-the-badge&logo=i18next&logoColor=white)
+![TinyMCE](https://img.shields.io/badge/TinyMCE-%ED1C24.svg?style=for-the-badge&logo=TinyMCE&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 
 ### Data Visualization
 
+![D3.js](https://img.shields.io/badge/d3.js-%F9A03C.svg?style=for-the-badge&logo=d3&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![ApexChart.js](https://img.shields.io/badge/ApexChart.js-F679FF.svg?style=for-the-badge&logo=apexcharts.js&logoColor=white)
